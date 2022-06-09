@@ -1,6 +1,6 @@
 # CEP-Automation
 
-Essa automação tem o objetivo de localizar um endereço através de um CEP. O teste foi criado com o robot framework utilizando a IDE Visual studio code.
+Essa automação tem o objetivo de localizar um endereço através de um CEP. O teste foi criado com o robot framework, que é baseado em python, utilizando a IDE visual studio code.
 
 ## Built com
 
